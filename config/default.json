@@ -1,4 +1,6 @@
 {
     "mongoURI": "mongodb+srv://gencarnacion:Password@devconnector.00ute.mongodb.net/<dbname>?retryWrites=true&w=majority",
-    "jwtSecret": "mysecrettoken"
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "5ba624b20ba6f46ec93b",
+    "githubSecret": "cb97c393b8f4a4fc580b59e7e264fd3b8393ac3a"
 }
